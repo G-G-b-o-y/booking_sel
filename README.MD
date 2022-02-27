@@ -1,4 +1,5 @@
 # 健康驛站搶名額
+# 禁止商業用途！！！
 
 所需的包放在 'requirements.txt' 中
 你可以使用 'pip install -r requirements.txt' 命令來安裝
